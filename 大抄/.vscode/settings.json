@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "treestruct.h": "c",
+        "disjoint_set.h": "c",
+        "leftist_tree.h": "c",
+        "deap.h": "c",
+        "stdlib.h": "c",
+        "smmh.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
